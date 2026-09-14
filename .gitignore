@@ -1,0 +1,44 @@
+# Blender
+*.blend1
+*.blend2
+*.blend3
+.blender/
+
+# Blender cache
+*.bphys
+*.cache
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Render/cache folders
+cache/
+caches/
+tmp/
+temp/
+
+# Unreal
+Saved/
+Intermediate/
+DerivedDataCache/
+
+# Visual Studio
+.vs/
+
+# Build files
+Build/
+Binaries/
+
+# Logs
+*.log
